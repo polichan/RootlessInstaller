@@ -74,6 +74,7 @@ static NSString *Resources;
 - (void)viewDidLoad {
     // set up our view
     [super viewDidLoad];
+    [NSThread sleepForTimeInterval:5.0f];
     // for the "Done" button to actually dismiss the keyboard
     _debURL.delegate = (id<UITextFieldDelegate> _Nullable)self;
     // disable buttons until we can get root
