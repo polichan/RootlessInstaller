@@ -1,11 +1,8 @@
 <p >
-  <img src="https://raw.githubusercontent.com/polichan/RootlessInstaller/master/Screenshot/Icon.png" alt="RootlessInstaller" title="RootlessInstaller" style = "height:100px;">
+  <img src="https://raw.githubusercontent.com/polichan/RootlessInstaller/master/Screenshot/Icon.png" alt="RootlessInstaller" title="RootlessInstaller" height=100px>
 </p>
-# RootlessInstaller
 
-Launchscreen|Main
------------- | ------------- 
-![图片1][1]|![图片2][2]|!
+# RootlessInstaller
 Source code for my RootlessJB tweak installer
 <br>
-This can install unpatched DEB files, and it's strictly for tweaks
+This project can install unpatched DEB files on iOS, and it's strictly for tweaks.
