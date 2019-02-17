@@ -19,14 +19,14 @@ $(find /var/containers/Bundle/Application | grep RootlessInstaller.app/install.s
 ```
 
 # Credits
-icons by [LuMartti][3]
-<br>
-Launchscreen by [PoliChan][4]
-<br>
-Forked from [Alticha][5]
+
+* icons by [LuMartti][3]
+* Forked from [Alticha][4]
+* Launchscreen by [PoliChan][5]
+
 
   [1]: Screenshot/1.png
   [2]: Screenshot/2.png
   [3]: http://twitter.com/LuMartti
-  [4]: https://github.com/polichan
-  [5]: https://github.com/Alticha
+  [4]: https://github.com/Alticha
+  [5]: https://github.com/polichan
